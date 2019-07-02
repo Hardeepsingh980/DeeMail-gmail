@@ -24,7 +24,10 @@ Just open the main.py file.
 ## Screenshots
 
 ![image](screen4.png)
+
 ![image](screen1.png)
+
 ![image](screen2.png)
+
 ![image](screen3.png)
 
